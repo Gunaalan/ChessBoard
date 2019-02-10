@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Downloads/Company/splitwise" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/splitwise" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../company" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../company2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../company3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ml-redis-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mysql-jdbc-driver-michaelcgood" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../practice-service" charset="UTF-8" />
+  </component>
+</project>

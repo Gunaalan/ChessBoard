@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Head-First-Design-Patterns/Head-First-Design-Patterns.iml" filepath="$PROJECT_DIR$/../Head-First-Design-Patterns/Head-First-Design-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeProblems.iml" filepath="$PROJECT_DIR$/PracticeProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../company2/acko.iml" filepath="$PROJECT_DIR$/../company2/acko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../company/company.iml" filepath="$PROJECT_DIR$/../company/company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../company3/company3.iml" filepath="$PROJECT_DIR$/../company3/company3.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/splitwise/target/maven-archiver/maven-archiver.iml" filepath="$USER_HOME$/Downloads/splitwise/target/maven-archiver/maven-archiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../company/target/maven-archiver/maven-archiver (1).iml" filepath="$PROJECT_DIR$/../company/target/maven-archiver/maven-archiver (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../company2/target/maven-archiver/maven-archiver (2).iml" filepath="$PROJECT_DIR$/../company2/target/maven-archiver/maven-archiver (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../company3/target/maven-archiver/maven-archiver (3).iml" filepath="$PROJECT_DIR$/../company3/target/maven-archiver/maven-archiver (3).iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Company/splitwise/target/maven-archiver/maven-archiver (4).iml" filepath="$USER_HOME$/Downloads/Company/splitwise/target/maven-archiver/maven-archiver (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ml-redis-service/ml-redis-service.iml" filepath="$PROJECT_DIR$/../ml-redis-service/ml-redis-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mysql-jdbc-driver-michaelcgood/mysql-jdbc.iml" filepath="$PROJECT_DIR$/../mysql-jdbc-driver-michaelcgood/mysql-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practice-service/practice-service.iml" filepath="$PROJECT_DIR$/../practice-service/practice-service.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Company/splitwise/splitwise.iml" filepath="$USER_HOME$/Downloads/Company/splitwise/splitwise.iml" />
+    </modules>
+  </component>
+</project>

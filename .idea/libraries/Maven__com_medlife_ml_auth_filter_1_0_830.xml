@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.medlife:ml-auth-filter:1.0.830">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/medlife/ml-auth-filter/1.0.830/ml-auth-filter-1.0.830.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/medlife/ml-auth-filter/1.0.830/ml-auth-filter-1.0.830-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/medlife/ml-auth-filter/1.0.830/ml-auth-filter-1.0.830-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

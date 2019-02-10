@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.medlife:yaml-parse:1.0.1847">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/medlife/yaml-parse/1.0.1847/yaml-parse-1.0.1847.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/medlife/yaml-parse/1.0.1847/yaml-parse-1.0.1847-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/medlife/yaml-parse/1.0.1847/yaml-parse-1.0.1847-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
